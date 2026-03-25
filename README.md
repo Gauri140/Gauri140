@@ -1,6 +1,6 @@
 ![logo](https://github.com/Gauri140/Gauri140/blob/main/Software%20Engineer.png)
 <h1 align="center">Hi 👋, I'm Gauri Kashid</h1>
-<h3 align="center">MERN Stack Developer | AI Enthusiast | Building scalable apps with real-world impact</h3>
+<h3 align="center">Full Stack Developer | AI Enthusiast | Building scalable apps with real-world impact</h3>
 
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
