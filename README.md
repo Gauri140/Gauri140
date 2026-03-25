@@ -68,10 +68,16 @@
 
 ### 📊 GitHub Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauri140&show_icons=true&locale=en&layout=compact" alt="gauri140" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauri140&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="gauri140" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauri140&show_icons=true&locale=en" alt="gauri140" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gauri140&show_icons=true&locale=en&theme=tokyonight" alt="gauri140" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauri140&" alt="gauri140" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauri140&theme=tokyonight" alt="gauri140" />
+</p>
 
 
