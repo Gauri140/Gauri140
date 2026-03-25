@@ -75,7 +75,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauri140&" alt="gauri140" /></p>
 
 
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauri140&theme=tokyonight" />
-</p>
